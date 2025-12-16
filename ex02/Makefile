@@ -4,7 +4,7 @@ INFILES = 	main.cpp AAnimal.cpp Cat.cpp Dog.cpp Brain.cpp
 
 OBJFILES = $(INFILES:.cpp=.o)
 
-NAME = I_don’t_want_to_set_the_world_on_fire
+NAME = Abstract_class
 
 all: $(NAME)
 
